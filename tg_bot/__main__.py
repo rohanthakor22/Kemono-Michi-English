@@ -22,7 +22,7 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 Im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @Hackintosh_Chat.
+My future updates will be put into This Channel - @KemonoMichiSupport.
 
 This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-3.0-English),	I will try to provide you my best service.
 you can create clone same like me..
