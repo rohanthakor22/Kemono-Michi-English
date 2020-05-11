@@ -268,4 +268,4 @@ dispatcher.add_handler(VAPOR_HANDLER)
 
 dispatcher.add_handler(MOCK_HANDLER)
 
-dispatcher.add_handler(ME_TOO_THANKS_HANDLER
+dispatcher.add_handler(ME_TOO_THANKS_HANDLER) 
